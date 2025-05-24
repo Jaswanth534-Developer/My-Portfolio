@@ -38,7 +38,7 @@ const Hero = () => {
  I am a frontend developer with a strong understanding of building responsive and interactive websites. I have a good knowledge of HTML, CSS, JavaScript, and React.js. I enjoy turning ideas into real projects and constantly improving my skills by working on new challenges.</p>
 
 <div className='my-8'>
-  <a href="/" className='px-6 py-3 w-full rounded-xl mr-4 
+  <a href="file:///C:/Users/jaswa/OneDrive/Documents/Resumes/Jaswanth_Kumar_Reddy_Resume_Frontend_Developer.pdf" className='px-6 py-3 w-full rounded-xl mr-4 
               bg-gradient-to-br from-orange-500 to-pink-500 text-whitw'>
                 Download CV
               </a>

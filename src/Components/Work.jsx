@@ -5,30 +5,47 @@ const projects = [
      src: '/Images/expense-tracker.png',
      label: 'Expense Tracker', 
      link:  [
-      { type: 'Live', url: 'https://your-live-site.com' },
-      { type: 'Code', url: 'https://github.com/your-repo' }
+      { type: 'Live', url: 'https://expense-tracker-p.netlify.app/' },
+      { type: 'Code', url: 'https://github.com/Jaswanth534-Developer/Expense-Tracker.git' }
     ] 
    },
   { 
     src: '/Images/hangman.png', 
     label: 'Hangman Game', 
-    link: '/' },
+    link:  [
+      { type: 'Live', url: 'https://hangman-game-p.netlify.app/' },
+      { type: 'Code', url: 'https://github.com/Jaswanth534-Developer/Hangman-Game.git' }
+    ]  },
   {
      src: '/Images/tasty-food.png',
      label: 'Tasty Food', 
      link:  [
-      { type: 'Live', url: 'https://your-live-site.com' },
-      { type: 'Code', url: 'https://github.com/your-repo' }
+      { type: 'Live', url: 'https://restaurant-website-534.netlify.app/' },
+      { type: 'Code', url: 'https://github.com/Jaswanth534-Developer/Tasty-Food.git' }
     ] 
   },
   { 
     src: '/Images/speed-typer.png', 
     label: 'Speed Typer',
-    link: '/' },
+    link:  [
+      { type: 'Live', url: 'https://speed-typer-p.netlify.app/' },
+      { type: 'Code', url: 'https://github.com/Jaswanth534-Developer/Typing-Game.git' }
+    ]  },
   { 
     src: '/Images/footcap.png',
     label: 'Footcap', 
-    link: '/' },
+    link:  [
+      { type: 'Live', url: 'https://e-commerce-page-1.netlify.app/' },
+      { type: 'Code', url: 'https://github.com/Jaswanth534-Developer/Footcap.git' }
+    ]  },
+      { 
+    src: '/Images/login.png',
+    label: 'Login Page', 
+    link:  [
+      { type: 'Live', url: 'https://e-commerce-page-1.netlify.app/' },
+      { type: 'Code', url: 'https://github.com/Jaswanth534-Developer/Footcap.git' }
+    ]  },
+    
 ];
 
 const Work = () => {
